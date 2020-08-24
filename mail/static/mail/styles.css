@@ -1,0 +1,28 @@
+textarea {
+    min-height: 400px;
+}
+
+.post {
+                border: 2px outset black;
+                padding: 10px;
+                margin: 5px;
+                cursor: pointer;
+            }
+
+h3 {
+ text-align: left;
+}
+
+#read {
+ background-color: lightgray;
+}
+
+#email-view {
+border: 2px outset black;
+                padding: 10px;
+                margin: 5px;
+}
+
+h4 {
+text-align: right;
+}
